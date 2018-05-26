@@ -18,7 +18,7 @@
 #
 # Default permissions are admin-only
 
-hookUrl: "http://filestore.conventionalize82/v1/hooks/public-read-user-write"
+hookUrl: http://filestore.hasura/v2/hooks/public-read-user-write
 
 # volume
 # -------
