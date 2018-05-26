@@ -18,10 +18,11 @@
 #
 # Default permissions are admin-only
 
-hookUrl: null
+hookUrl: "http://filestore.conventionalize82/v1/hooks/public-read-user-write"
 
 # volume
 # -------
 # Volume defines the Kubernetes volume to be mounted for storing the files, this is usually filled in from the metadata.
 
 volume: {{ cluster.metadata.filestore.volume|json }}
+
