@@ -1,0 +1,9 @@
+- args:
+    permission:
+      columns:
+      - URL
+      - info
+      filter: {}
+    role: user
+    table: Photos
+  type: create_update_permission

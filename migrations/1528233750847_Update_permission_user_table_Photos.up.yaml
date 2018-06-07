@@ -1,0 +1,13 @@
+- args:
+    role: user
+    table: Photos
+  type: drop_select_permission
+- args:
+    permission:
+      columns:
+      - URL
+      - info
+      filter: {}
+    role: user
+    table: Photos
+  type: create_select_permission

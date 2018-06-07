@@ -1,4 +1,8 @@
-# Hasura Hello World
+# BearDen - CSM117 Project
+
+A web app that allows users to embark on an exciting treasure hunt across and around the UCLA campus. 
+
+The backend of BearDen was built with Hasura.
 
 This quickstart will take you over Hasura's instant backend APIs (BaaS) and how to deploy your custom code too.
 
